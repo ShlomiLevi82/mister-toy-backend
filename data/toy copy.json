@@ -1,0 +1,82 @@
+[
+    {
+        "_id": "pm0kb0",
+        "name": "Superman",
+        "price": 56,
+        "labels": [
+            {
+                "title": "Doll",
+                "color": "#6d28d9"
+            },
+            {
+                "title": "Battery Powered",
+                "color": "#71717a"
+            },
+            {
+                "title": "Baby",
+                "color": "#2563eb"
+            }
+        ],
+        "createdAt": 1689661799870,
+        "inStock": true
+    },
+    {
+        "_id": "pm0kb0",
+        "name": "BubbiMan",
+        "price": 156,
+        "labels": [
+            {
+                "title": "Action",
+                "color": "#6d28d9"
+            },
+            {
+                "title": "Water Powered",
+                "color": "#71717a"
+            }
+        ],
+        "createdAt": 1689661799870,
+        "inStock": true
+    },
+    {
+        "_id": "Kz0kKm",
+        "name": "Batman",
+        "price": 48,
+        "labels": [
+            {
+                "title": "Doll",
+                "color": "#6d28d9"
+            },
+            {
+                "title": "Battery Powered",
+                "color": "#71717a"
+            },
+            {
+                "title": "Baby",
+                "color": "#2563eb"
+            }
+        ],
+        "createdAt": 1689661799870,
+        "inStock": true
+    },
+    {
+        "_id": "WPwx9e",
+        "name": "Ironman",
+        "price": 32,
+        "labels": [
+            {
+                "title": "Doll",
+                "color": "#6d28d9"
+            },
+            {
+                "title": "Battery Powered",
+                "color": "#71717a"
+            },
+            {
+                "title": "Baby",
+                "color": "#2563eb"
+            }
+        ],
+        "createdAt": 1689661799870,
+        "inStock": true
+    }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "_id": "pm0kb0",
+    "name": "Superman",
+    "price": 99,
+    "labels": [
+      "Doll",
+      "Baby"
+    ],
+    "createdAt": 1689661799870,
+    "inStock": true
+  },
+  {
+    "_id": "pm0kb1",
+    "name": "Bogiman",
+    "price": 89,
+    "labels": [
+      "Doll",
+      "Baby"
+    ],
+    "createdAt": 1689661799870,
+    "inStock": true
+  },
+  {
+    "_id": "Kz0kKm",
+    "name": "Batman",
+    "price": 48,
+    "labels": [
+      "Doll",
+      "Battery Powered",
+      "Baby"
+    ],
+    "createdAt": 1689661799870,
+    "inStock": true
+  },
+  {
+    "_id": "WPwx9e",
+    "name": "Ironman",
+    "price": 32,
+    "labels": [
+      "Battery Powered",
+      "Baby"
+    ],
+    "createdAt": 1689661799870,
+    "inStock": true
+  },
+  {
+    "name": "Spiderman",
+    "price": 9,
+    "_id": "B0xNN",
+    "labels": [
+      "Doll",
+      "Baby"
+    ],
+    "createdAt": 1689661799870,
+    "inStock": true
+  },
+  {
+    "name": "Frog",
+    "price": 29,
+    "labels": [
+      "Baby",
+      "Box game"
+    ],
+    "createdAt": 1689693433710,
+    "inStock": false,
+    "_id": "gQZNZ"
+  }
+]
