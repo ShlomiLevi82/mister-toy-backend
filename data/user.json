@@ -1,0 +1,32 @@
+[
+    {
+        "fullname":"Ab Ab",
+        "username":"ab",
+        "password":"123",
+        "isAdmin":true
+    },
+    {
+        "fullname":"Ba Ba",
+    "username":"ba",
+    "password":"123",
+    "isAdmin":true
+},
+    {
+        "fullname":"Georgy Pummery",
+    "username":"gpummery0",
+    "password":"123",
+    "isAdmin":false
+},
+{
+    "fullname":"Sayres Grievson",
+"username":"sgrievson3",
+"password":"123",
+"isAdmin":false
+},
+{
+    "fullname":"Dom Turneaux",
+    "username":"dturneaux4",
+    "password":"123",
+    "isAdmin":false
+}
+]
